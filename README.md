@@ -16,6 +16,8 @@
 
 🔹 Google Data Analytics Certified | Business Analytics with Excel | Python Programmer
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+
 🚀 Current Work:
 
 Developing Machine Learning projects to enhance predictive analytics and automation.
@@ -28,8 +30,6 @@ Building Tableau dashboards for interactive data storytelling and insights.
 
 📫 Let's Connect!
 ###
-
-<img align="right" height="167" src="https://i.gifer.com/5TMy.gif"  />
 
 ###
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
