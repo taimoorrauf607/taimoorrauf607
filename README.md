@@ -12,29 +12,19 @@
 <img align="right" height="167" src="https://i.gifer.com/5TMy.gif"  />
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&style=social)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&style=social)&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&style=social)&nbsp;&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-orange?logo=scikit-learn&style=social)&nbsp;&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&style=social)&nbsp;&nbsp;
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)&nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&style=social)&nbsp;&nbsp;
 ###
 
 <div align="left">
