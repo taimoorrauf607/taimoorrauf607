@@ -56,4 +56,6 @@ Building Tableau dashboards for interactive data storytelling and insights.
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
 </div>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoorrauf607&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
