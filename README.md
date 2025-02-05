@@ -58,5 +58,7 @@ Building Tableau dashboards for interactive data storytelling and insights.
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoorrauf607&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taimoorrauf607&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
+
+###
