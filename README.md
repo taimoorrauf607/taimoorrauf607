@@ -4,9 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taimoorrauf607&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Status" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taimoorrauf607&theme=dracula"
-
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
