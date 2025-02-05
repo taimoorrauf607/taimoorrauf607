@@ -1,4 +1,4 @@
-<h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist, from Pakistan</h2>
+<h2 align="left">Greeting 👋! My name is Taimoor Rauf and I'm a Data Scientist, from Pakistan</h2>
 
 ###
 
