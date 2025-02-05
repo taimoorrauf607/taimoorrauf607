@@ -1,10 +1,9 @@
-<h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist, from Pakistan</h2>
+<h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist from Pakistan</h2>
 
 ###
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=taimoorrauf607&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Status&card_width=400" alt="GitHub Stats" />
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 </div>
