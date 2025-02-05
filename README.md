@@ -1,4 +1,4 @@
-<h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist, from Pakistan</h2>
+<h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist from Pakistan</h2>
 
 ###
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taimoorrauf607&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Status&card_width=500)
