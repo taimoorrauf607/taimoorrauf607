@@ -5,7 +5,7 @@
 
 <div align="right">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&locale=en&hide_title=false&layout=compact&card_width=100&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 📍 Data Analyst | Machine Learning Enthusiast | Python Developer
