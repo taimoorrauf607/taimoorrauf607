@@ -1,12 +1,13 @@
 <h2 align="left">Greetings 👋! My name is Taimoor Rauf and I'm a Data Scientist from Pakistan</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoorrauf607&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&show_icons=true&locale=en&layout=compact" height="150" alt="taimoorrauf607" /></p>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=taimoorrauf607&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoorrauf607&show_icons=true&locale=en&layout=compact&theme=radical" height="170" alt="taimoorrauf607" />
 </div>
 
+
 ###
+
 
 📍 Data Analyst | Machine Learning Enthusiast | Python Developer
 
